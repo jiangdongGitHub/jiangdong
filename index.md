@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+###规范
+<a href="http://jiangdong.me/guide" target="_blank">PRD参考</a>
 
-You can use the [editor on GitHub](https://github.com/jiangdongGitHub/jiangdong/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+###工具
+|名称|工具|链接|描述|
+| --- | --- | --- | --- |
+|项目管理|禅道|<a href="http://pms.aitelife.com/" target="_blank">本地</a>|本地部署、BUG、版本、任务|
+|在线文档|showdoc|<a href="http://api.cdlhzz.cn/index.php?s=/Home/Item/index" target="_blank">本地</a>|接口、端口规范|
+|原型|墨刀|<a href="https://modao.cc/" target="_blank">官网</a>|在线协作|
+|导图、流程图|Processon|<a href="https://www.processon.com/" target="_blank">官网</a>|在线协作 墨刀外链流程图、导图|
+|界面|Sketch|<a href="https://www.sketchapp.com/" target="_blank">官网</a> <a href="http://xclient.info/" target="_blank">破解下载</a>|-|
+|标注|蓝湖|<a href="https://lanhuapp.com/" target="_blank">官网</a>|在线协作|
+|字体图标|iconfont|<a href="http://www.iconfont.cn/" target="_blank">官网</a>|前端字体图标，设计图标SVG、PNG、AI|
+|动效|Principle|<a href="http://principleformac.com/" target="_blank">官网</a> <a href="http://xclient.info/" target="_blank">破解下载</a>|-|
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jiangdongGitHub/jiangdong/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+###网站
+|名称|链接|描述|
+| --- | --- | --- |
+|设计细节|<a href="https://www.uisdc.com/hunters" target="_blank">细节猎人</a> <a href="http://littlebigdetails.com/" target="_blank">LittleBigDetails</a>|产品功能设计、交互细节|
