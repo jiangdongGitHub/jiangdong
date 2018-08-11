@@ -1,5 +1,8 @@
 # 蒋冬日志
 
+## 日志查看目录和链接
+[日志Wiki](https://github.com/jiangdongGitHub/jiangdong/wiki)
+
 ### 分享：产品细节、软件推荐、素材下载、工作和人生经验分享
 
 * **职业：** 全栈工程师->企业体系架构师
