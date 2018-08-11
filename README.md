@@ -11,6 +11,10 @@
 * **管理：** 执行->真诚->带头->背锅
 * **命理：** 九经丹年月日时4属相 龙虎鸡蛇（权）牛羊狗马（命）鼠兔猪猴（金）
 
+| ![Dribbble](http://function.jiangdong.me/2018-08-09-Dribbble.png) | ![站酷123](http://function.jiangdong.me/2018-08-09-站酷123.png) | ![zhihu](http://function.jiangdong.me/2018-08-09-zhihu.png) | ![github](http://function.jiangdong.me/2018-08-09-github.png) | ![juejin](http://function.jiangdong.me/2018-08-09-juejin.png) | ![weibo](http://function.jiangdong.me/2018-08-09-weibo.png) |
+| --- | --- | --- | --- | --- | --- |
+| [Dribbble](https://dribbble.com/jiangdong) | [站酷](https://smilingjd.zcool.com.cn/) | [知乎](https://www.zhihu.com/people/jiangdong.me/) | [Github](https://github.com/jiangdongGitHub) | [掘金](https://juejin.im/user/57d955177db2a24eb19a63ac) | [微博](https://weibo.com/2707142230/profile?rightmod=1&wvr=6&mod=personinfo) |
+
 ## 正文
 >产品细节、软件推荐、素材下载、工作和人生经验内容
 
